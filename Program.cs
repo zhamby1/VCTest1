@@ -9,6 +9,7 @@ namespace VCTest1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Yo too");
             Console.WriteLine("YYESSS");
+            Console.WriteLine("New line");
         }
     }
 }
